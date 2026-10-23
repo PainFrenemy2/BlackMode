@@ -1,0 +1,15 @@
+{
+    "version":  "0.1.0-beta",
+    "channel":  "beta",
+    "date":  "2026-10-23",
+    "notes":  [
+                  "Перша бета: конструктор збірок, склад з Діловода, вхід по коду ПК/IP",
+                  "Автооновлення і самовідновлення файлів"
+              ],
+    "mandatory":  false,
+    "package":  {
+                    "url":  "https://github.com/PainFrenemy2/BlackMode/releases/download/v0.1.0-beta/BlackMode-0.1.0-beta-win64.zip",
+                    "sha256":  "528787b649819dede7a78d76f057e842c5c14e25110b2bf40f1121450a1b5b81",
+                    "size":  5121346
+                }
+}
