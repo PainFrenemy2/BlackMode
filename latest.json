@@ -1,16 +1,15 @@
 {
-    "version":  "0.1.2-beta",
+    "version":  "0.1.3-beta",
     "channel":  "beta",
     "date":  "2026-10-23",
     "notes":  [
-                  "Кнопка «Оновити» помітніша: світиться, з відблиском і стрілкою",
-                  "Вікно оновлення: перехід версій і список змін",
-                  "Напис «застаріла» біля версії пульсує"
+                  "Виправлено: після оновлення до 0.1.2 програма писала «Пошкоджені файли програми»",
+                  "Кнопка «Оновити» помітніша, вікно оновлення зі списком змін"
               ],
     "mandatory":  false,
     "package":  {
-                    "url":  "https://github.com/PainFrenemy2/BlackMode/releases/download/v0.1.2-beta/BlackMode-0.1.2-beta-win64.zip",
-                    "sha256":  "81ca26c6272885fba7f698a7b3a6ce8b578e4ffe8559d4f5142318d431cd90b4",
-                    "size":  7049361
+                    "url":  "https://github.com/PainFrenemy2/BlackMode/releases/download/v0.1.3-beta/BlackMode-0.1.3-beta-win64.zip",
+                    "sha256":  "0cba79cc3906494859e9477778b81f4968490e59f2ffbaa37f4ecbe44fd3155a",
+                    "size":  7046070
                 }
 }
