@@ -1,16 +1,16 @@
 {
-    "version":  "0.1.5-beta",
+    "version":  "0.1.6-beta",
     "channel":  "beta",
     "date":  "2026-10-23",
     "notes":  [
-                  "Новий вигляд «застаріла» біля версії і картка «Доступна нова версія» над курсом",
-                  "Програма більше не пише «кілька разів аварійно закрилась» без причини",
-                  "Дрібні правки текстів"
+                  "Зміни при оновленні показуються списком",
+                  "Нову версію видно одразу після виходу",
+                  "Заголовок «Зміни» у вікні оновлення"
               ],
     "mandatory":  false,
     "package":  {
-                    "url":  "https://github.com/PainFrenemy2/BlackMode/releases/download/v0.1.5-beta/BlackMode-0.1.5-beta-win64.zip",
-                    "sha256":  "8878cdad9099a27fb83f0df9fbb98555ac138ff80082b0bdb4cadef64b9f3d7d",
-                    "size":  7053040
+                    "url":  "https://github.com/PainFrenemy2/BlackMode/releases/download/v0.1.6-beta/BlackMode-0.1.6-beta-win64.zip",
+                    "sha256":  "3d15b125711a7ea8dd54b11672041a89d127a21028ecbea381bba45d8e107f04",
+                    "size":  7057834
                 }
 }
