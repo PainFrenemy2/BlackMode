@@ -1,15 +1,16 @@
 {
-    "version":  "0.1.7-beta",
+    "version":  "0.1.8-beta",
     "channel":  "beta",
-    "date":  "2026-10-23",
+    "date":  "2026-10-24",
     "notes":  [
-                  "Нову версію видно одразу після виходу",
-                  "Вхід не збоїть одразу після зміни списку доступу"
+                  "Інтерфейс більше не можна приблизити щипком на тачпаді чи екрані",
+                  "У виборі деталі список товарів знову прокручується до кінця",
+                  "Дрібні виправлення в Тестах"
               ],
     "mandatory":  false,
     "package":  {
-                    "url":  "https://github.com/PainFrenemy2/BlackMode/releases/download/v0.1.7-beta/BlackMode-0.1.7-beta-win64.zip",
-                    "sha256":  "e6cea395ca4d19d6831e35f7624705adc212b58b5d3e620717e6d55f543399f9",
-                    "size":  7061456
+                    "url":  "https://github.com/PainFrenemy2/BlackMode/releases/download/v0.1.8-beta/BlackMode-0.1.8-beta-win64.zip",
+                    "sha256":  "776a0075a92e435d32a2e8edff5fab5c4f0d78ab8462dae7237ed01841b763bb",
+                    "size":  7062338
                 }
 }
