@@ -1,16 +1,16 @@
 {
-    "version":  "0.1.8-beta",
+    "version":  "0.1.9-beta",
     "channel":  "beta",
-    "date":  "2026-10-24",
+    "date":  "2026-10-25",
     "notes":  [
-                  "Інтерфейс більше не можна приблизити щипком на тачпаді чи екрані",
-                  "У виборі деталі список товарів знову прокручується до кінця",
-                  "Дрібні виправлення в Тестах"
+                  "Конструктор: розрахунок ціни надійніший",
+                  "Посилено захист зʼєднання з Діловодом",
+                  "Внутрішні покращення безпеки, менший розмір програми"
               ],
     "mandatory":  false,
     "package":  {
-                    "url":  "https://github.com/PainFrenemy2/BlackMode/releases/download/v0.1.8-beta/BlackMode-0.1.8-beta-win64.zip",
-                    "sha256":  "776a0075a92e435d32a2e8edff5fab5c4f0d78ab8462dae7237ed01841b763bb",
-                    "size":  7062338
+                    "url":  "https://github.com/PainFrenemy2/BlackMode/releases/download/v0.1.9-beta/BlackMode-0.1.9-beta-win64.zip",
+                    "sha256":  "666927857335818beddb5c5df16c3f6312573702f9c4d610da7f12f428cf4d30",
+                    "size":  6804173
                 }
 }
