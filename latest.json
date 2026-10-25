@@ -1,12 +1,14 @@
 {
-    "version":  "0.1.16-beta",
+    "version":  "0.1.17-beta",
     "channel":  "beta",
     "date":  "2026-10-25",
-    "notes":  "Додано параметр «Націнка %» у Налаштуваннях - РРЦ рахується як закупка плюс цей відсоток",
+    "notes":  [
+                  "Виправлено помилку у вікні оновлення, коли зміна одна"
+              ],
     "mandatory":  false,
     "package":  {
-                    "url":  "https://github.com/PainFrenemy2/BlackMode/releases/download/v0.1.16-beta/BlackMode-0.1.16-beta-win64.zip",
-                    "sha256":  "6537e7024806dff75de4b757394a523a75881f2d1b2f522d01f10d697f0e88a8",
-                    "size":  6806700
+                    "url":  "https://github.com/PainFrenemy2/BlackMode/releases/download/v0.1.17-beta/BlackMode-0.1.17-beta-win64.zip",
+                    "sha256":  "6540c9204c24dcbf89d445ba24ebddbd91ad6b5eba4441a52444ac7c91a300bf",
+                    "size":  6806803
                 }
 }
