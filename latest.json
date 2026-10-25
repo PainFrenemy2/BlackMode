@@ -1,15 +1,15 @@
 {
-    "version":  "0.1.12-beta",
+    "version":  "0.1.13-beta",
     "channel":  "beta",
     "date":  "2026-10-25",
     "notes":  [
-                  "Склад і курс тепер оновлюються при кожному запуску",
-                  "Звʼязок з Діловодом тепер через захищений посередник"
+                  "Покращено захист входу",
+                  "Дрібні внутрішні покращення"
               ],
     "mandatory":  false,
     "package":  {
-                    "url":  "https://github.com/PainFrenemy2/BlackMode/releases/download/v0.1.12-beta/BlackMode-0.1.12-beta-win64.zip",
-                    "sha256":  "3e32888eff05e9307b614249dac61643c6de5802e31e0b0479b6dd0b58e13371",
-                    "size":  6804690
+                    "url":  "https://github.com/PainFrenemy2/BlackMode/releases/download/v0.1.13-beta/BlackMode-0.1.13-beta-win64.zip",
+                    "sha256":  "b60f83eb4d53a11dc3b49254ca1959de1b6bba9f130d3a53128b3cfbbaf6081a",
+                    "size":  6804668
                 }
 }
