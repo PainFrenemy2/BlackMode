@@ -1,12 +1,15 @@
 {
-    "version":  "0.1.14-beta",
+    "version":  "0.1.15-beta",
     "channel":  "beta",
     "date":  "2026-10-25",
-    "notes":  "У ліцензійній угоді вказано розробника - компанія Null/Code",
+    "notes":  [
+                  "У Налаштуваннях (Про програму) можна переглянути ліцензійну угоду",
+                  "Вказано розробника - компанія Null/Code"
+              ],
     "mandatory":  false,
     "package":  {
-                    "url":  "https://github.com/PainFrenemy2/BlackMode/releases/download/v0.1.14-beta/BlackMode-0.1.14-beta-win64.zip",
-                    "sha256":  "4b8509526183b65b81dfbdf19fa07855328499edd4d155b7dd1348da8f4fe64c",
-                    "size":  6804846
+                    "url":  "https://github.com/PainFrenemy2/BlackMode/releases/download/v0.1.15-beta/BlackMode-0.1.15-beta-win64.zip",
+                    "sha256":  "8e3846e7e779dfe7aa4c863367e5d7971bea2b0976cf7a14b0378b9b0d7b20c1",
+                    "size":  6805430
                 }
 }
