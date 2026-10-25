@@ -1,16 +1,15 @@
 {
-    "version":  "0.1.9-beta",
+    "version":  "0.1.10-beta",
     "channel":  "beta",
     "date":  "2026-10-25",
     "notes":  [
-                  "Конструктор: розрахунок ціни надійніший",
-                  "Посилено захист зʼєднання з Діловодом",
-                  "Внутрішні покращення безпеки, менший розмір програми"
+                  "Виправлено звʼязок з Діловодом (у версії 0.1.9 міг не працювати)",
+                  "Склад і курс знову вантажаться"
               ],
     "mandatory":  false,
     "package":  {
-                    "url":  "https://github.com/PainFrenemy2/BlackMode/releases/download/v0.1.9-beta/BlackMode-0.1.9-beta-win64.zip",
-                    "sha256":  "666927857335818beddb5c5df16c3f6312573702f9c4d610da7f12f428cf4d30",
-                    "size":  6804173
+                    "url":  "https://github.com/PainFrenemy2/BlackMode/releases/download/v0.1.10-beta/BlackMode-0.1.10-beta-win64.zip",
+                    "sha256":  "92041ec95f5b42983c9f56b2c79a50a723a0946143b1b17210d21ec4cee23670",
+                    "size":  6804966
                 }
 }
