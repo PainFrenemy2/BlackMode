@@ -1,15 +1,15 @@
 {
-    "version":  "0.1.10-beta",
+    "version":  "0.1.11-beta",
     "channel":  "beta",
     "date":  "2026-10-25",
     "notes":  [
-                  "Виправлено звʼязок з Діловодом (у версії 0.1.9 міг не працювати)",
-                  "Склад і курс знову вантажаться"
+                  "Відновлено звʼязок з Діловодом",
+                  "Захищене зʼєднання тепер працює правильно"
               ],
     "mandatory":  false,
     "package":  {
-                    "url":  "https://github.com/PainFrenemy2/BlackMode/releases/download/v0.1.10-beta/BlackMode-0.1.10-beta-win64.zip",
-                    "sha256":  "92041ec95f5b42983c9f56b2c79a50a723a0946143b1b17210d21ec4cee23670",
-                    "size":  6804966
+                    "url":  "https://github.com/PainFrenemy2/BlackMode/releases/download/v0.1.11-beta/BlackMode-0.1.11-beta-win64.zip",
+                    "sha256":  "6ef589932b13e3ae9d741d7c0ca21770b3d18a7108ed2611e2365aa36d3f7bea",
+                    "size":  6806553
                 }
 }
