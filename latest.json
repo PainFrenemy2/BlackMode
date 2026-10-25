@@ -1,15 +1,12 @@
 {
-    "version":  "0.1.15-beta",
+    "version":  "0.1.16-beta",
     "channel":  "beta",
     "date":  "2026-10-25",
-    "notes":  [
-                  "У Налаштуваннях (Про програму) можна переглянути ліцензійну угоду",
-                  "Вказано розробника - компанія Null/Code"
-              ],
+    "notes":  "Додано параметр «Націнка %» у Налаштуваннях - РРЦ рахується як закупка плюс цей відсоток",
     "mandatory":  false,
     "package":  {
-                    "url":  "https://github.com/PainFrenemy2/BlackMode/releases/download/v0.1.15-beta/BlackMode-0.1.15-beta-win64.zip",
-                    "sha256":  "8e3846e7e779dfe7aa4c863367e5d7971bea2b0976cf7a14b0378b9b0d7b20c1",
-                    "size":  6805430
+                    "url":  "https://github.com/PainFrenemy2/BlackMode/releases/download/v0.1.16-beta/BlackMode-0.1.16-beta-win64.zip",
+                    "sha256":  "6537e7024806dff75de4b757394a523a75881f2d1b2f522d01f10d697f0e88a8",
+                    "size":  6806700
                 }
 }
