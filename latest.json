@@ -1,15 +1,12 @@
 {
-    "version":  "0.1.13-beta",
+    "version":  "0.1.14-beta",
     "channel":  "beta",
     "date":  "2026-10-25",
-    "notes":  [
-                  "Покращено захист входу",
-                  "Дрібні внутрішні покращення"
-              ],
+    "notes":  "У ліцензійній угоді вказано розробника - компанія Null/Code",
     "mandatory":  false,
     "package":  {
-                    "url":  "https://github.com/PainFrenemy2/BlackMode/releases/download/v0.1.13-beta/BlackMode-0.1.13-beta-win64.zip",
-                    "sha256":  "b60f83eb4d53a11dc3b49254ca1959de1b6bba9f130d3a53128b3cfbbaf6081a",
-                    "size":  6804668
+                    "url":  "https://github.com/PainFrenemy2/BlackMode/releases/download/v0.1.14-beta/BlackMode-0.1.14-beta-win64.zip",
+                    "sha256":  "4b8509526183b65b81dfbdf19fa07855328499edd4d155b7dd1348da8f4fe64c",
+                    "size":  6804846
                 }
 }
