@@ -1,16 +1,16 @@
 {
-    "version":  "0.1.18-beta",
+    "version":  "0.1.19-beta",
     "channel":  "beta",
     "date":  "2026-10-29",
     "notes":  [
-                  "Програма більше не просить права адміна при кожному запуску",
-                  "Відкликання доступу застосовується автоматично, без перезапуску",
-                  "Новий інсталятор, іконка і дрібні виправлення"
+                  "Логи самі чистяться (14 днів або до 15 МБ)",
+                  "При видаленні можна галочкою стерти дані й логи",
+                  "Інсталятор завжди доступний одним посиланням на GitHub"
               ],
     "mandatory":  false,
     "package":  {
-                    "url":  "https://github.com/PainFrenemy2/BlackMode/releases/download/v0.1.18-beta/BlackMode-0.1.18-beta-win64.zip",
-                    "sha256":  "87529dd75a219e3ea46abdce468f96d0689dbfc4a25fcaf18438154c1c949ce8",
-                    "size":  6794840
+                    "url":  "https://github.com/PainFrenemy2/BlackMode/releases/download/v0.1.19-beta/BlackMode-0.1.19-beta-win64.zip",
+                    "sha256":  "f91a7316d3e2808d38545b63cf27bd912b2d493dcc38f5f3fc0b16edf8164a84",
+                    "size":  6817010
                 }
 }
