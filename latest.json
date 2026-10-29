@@ -1,16 +1,16 @@
 {
-    "version":  "0.1.19-beta",
+    "version":  "0.1.20-beta",
     "channel":  "beta",
     "date":  "2026-10-29",
     "notes":  [
-                  "Логи самі чистяться (14 днів або до 15 МБ)",
-                  "При видаленні можна галочкою стерти дані й логи",
-                  "Інсталятор завжди доступний одним посиланням на GitHub"
+                  "Єдина чорна іконка скрізь (прибрав зелену в апдейтера)",
+                  "Деінсталятор більше не падає - чисте питання Так/Ні про дані",
+                  "Інсталятор дає обрати папку при повторному встановленні"
               ],
     "mandatory":  false,
     "package":  {
-                    "url":  "https://github.com/PainFrenemy2/BlackMode/releases/download/v0.1.19-beta/BlackMode-0.1.19-beta-win64.zip",
-                    "sha256":  "f91a7316d3e2808d38545b63cf27bd912b2d493dcc38f5f3fc0b16edf8164a84",
-                    "size":  6817010
+                    "url":  "https://github.com/PainFrenemy2/BlackMode/releases/download/v0.1.20-beta/BlackMode-0.1.20-beta-win64.zip",
+                    "sha256":  "e92a4a6250fa052bb01d0c35ecd3045acff6e76c25b381e35cac25bdaff94ccc",
+                    "size":  6800725
                 }
 }
