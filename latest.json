@@ -1,16 +1,14 @@
 {
-    "version":  "0.1.20-beta",
+    "version":  "0.1.21-beta",
     "channel":  "beta",
     "date":  "2026-10-29",
     "notes":  [
-                  "Єдина чорна іконка скрізь (прибрав зелену в апдейтера)",
-                  "Деінсталятор більше не падає - чисте питання Так/Ні про дані",
-                  "Інсталятор дає обрати папку при повторному встановленні"
+                  "Апдейтеру повернуто сіру іконку (застосунок лишається чорним)"
               ],
     "mandatory":  false,
     "package":  {
-                    "url":  "https://github.com/PainFrenemy2/BlackMode/releases/download/v0.1.20-beta/BlackMode-0.1.20-beta-win64.zip",
-                    "sha256":  "e92a4a6250fa052bb01d0c35ecd3045acff6e76c25b381e35cac25bdaff94ccc",
-                    "size":  6800725
+                    "url":  "https://github.com/PainFrenemy2/BlackMode/releases/download/v0.1.21-beta/BlackMode-0.1.21-beta-win64.zip",
+                    "sha256":  "a32c7d29e7c097efc8bde2bf2267e91f606f69f6793b1408c72cc605e33faa07",
+                    "size":  6817026
                 }
 }
