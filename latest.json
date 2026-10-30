@@ -1,14 +1,15 @@
 {
-    "version":  "0.1.28-beta",
+    "version":  "0.1.29-beta",
     "channel":  "beta",
     "date":  "2026-10-30",
     "notes":  [
-                  "Конструктор: у виборі деталі з\u0027явилися папки Диловода (напр. Intel / AMD під процесорами) - можна фільтрувати по підкатегорії"
+                  "Виправлено вікно-перегляд збірки - раніше через конфлікт стилів воно не показувалось нормально",
+                  "тепер відкривається на весь екран як треба"
               ],
     "mandatory":  false,
     "package":  {
-                    "url":  "https://github.com/PainFrenemy2/BlackMode/releases/download/v0.1.28-beta/BlackMode-0.1.28-beta-win64.zip",
-                    "sha256":  "f78effea4dd6c4f7882badbe15005442fdecddc80bb5a874e29303a6127033a7",
-                    "size":  6807595
+                    "url":  "https://github.com/PainFrenemy2/BlackMode/releases/download/v0.1.29-beta/BlackMode-0.1.29-beta-win64.zip",
+                    "sha256":  "ca11e94fbf753c8f05f0d26f5ae8fe86b9d37ce13ea877925cb9241174c9369b",
+                    "size":  6807608
                 }
 }
