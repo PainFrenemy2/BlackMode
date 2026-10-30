@@ -1,14 +1,14 @@
 {
-    "version":  "0.1.33-beta",
+    "version":  "0.1.34-beta",
     "channel":  "beta",
     "date":  "2026-10-30",
     "notes":  [
-                  "Категорії товарів: тепер строго по головній папці Диловода (напр. усе під «Блоки живлення» - у БЖ, а «Кабелі живлення» - в «Інше», бо то папка «Кабелі»). Перевірено на реальній структурі Диловода"
+                  "Категорії тепер динамічні - беруться прямо з головних папок Диловода. Додав нову категорію/папку в Диловоді - вона сама з\u0027являється в програмі, нічого не треба вписувати. Підкатегорії (AMD/Intel, M2/SATA) - фільтр усередині"
               ],
     "mandatory":  false,
     "package":  {
-                    "url":  "https://github.com/PainFrenemy2/BlackMode/releases/download/v0.1.33-beta/BlackMode-0.1.33-beta-win64.zip",
-                    "sha256":  "a7f79077b2fff00bca7a25f2e7eae743d6d3ee56845a6b51135f8c4f38a2cdf5",
-                    "size":  6778516
+                    "url":  "https://github.com/PainFrenemy2/BlackMode/releases/download/v0.1.34-beta/BlackMode-0.1.34-beta-win64.zip",
+                    "sha256":  "791dc7681395c8bab5ee805cb0b707a46d43fef5aa8097a6e600ae3876530e0c",
+                    "size":  6777779
                 }
 }
