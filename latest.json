@@ -1,14 +1,16 @@
 {
-    "version":  "0.1.21-beta",
+    "version":  "0.1.22-beta",
     "channel":  "beta",
-    "date":  "2026-10-29",
+    "date":  "2026-10-30",
     "notes":  [
-                  "Апдейтеру повернуто сіру іконку (застосунок лишається чорним)"
+                  "Збірки тепер спільні - зберігаються на сервері й синхронізуються між усіма програмами",
+                  "Видно хто створив і хто останній редагував збірку",
+                  "Позначка «неповна збірка», якщо деталь зникла зі складу - у конструкторі підсвічує, що замінити"
               ],
     "mandatory":  false,
     "package":  {
-                    "url":  "https://github.com/PainFrenemy2/BlackMode/releases/download/v0.1.21-beta/BlackMode-0.1.21-beta-win64.zip",
-                    "sha256":  "a32c7d29e7c097efc8bde2bf2267e91f606f69f6793b1408c72cc605e33faa07",
-                    "size":  6817026
+                    "url":  "https://github.com/PainFrenemy2/BlackMode/releases/download/v0.1.22-beta/BlackMode-0.1.22-beta-win64.zip",
+                    "sha256":  "95b747ee75ff5adee0aab5c2d67a302950a03b60050683f61268dc1b999174de",
+                    "size":  6812061
                 }
 }
