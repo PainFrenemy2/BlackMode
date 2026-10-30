@@ -1,15 +1,15 @@
 {
-    "version":  "0.1.29-beta",
+    "version":  "0.1.30-beta",
     "channel":  "beta",
     "date":  "2026-10-30",
     "notes":  [
-                  "Виправлено вікно-перегляд збірки - раніше через конфлікт стилів воно не показувалось нормально",
-                  "тепер відкривається на весь екран як треба"
+                  "База збірок більше не блимає «немає збірок» при вході",
+                  "Вікно-перегляд збірки: суми тепер і в доларах під гривнею"
               ],
     "mandatory":  false,
     "package":  {
-                    "url":  "https://github.com/PainFrenemy2/BlackMode/releases/download/v0.1.29-beta/BlackMode-0.1.29-beta-win64.zip",
-                    "sha256":  "ca11e94fbf753c8f05f0d26f5ae8fe86b9d37ce13ea877925cb9241174c9369b",
-                    "size":  6807608
+                    "url":  "https://github.com/PainFrenemy2/BlackMode/releases/download/v0.1.30-beta/BlackMode-0.1.30-beta-win64.zip",
+                    "sha256":  "ba21ff9c524d3531c9b169f2d3eca6c03edb2717dc68de468cf152afaa089311",
+                    "size":  6807890
                 }
 }
