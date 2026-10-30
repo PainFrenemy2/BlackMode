@@ -1,15 +1,14 @@
 {
-    "version":  "0.1.26-beta",
+    "version":  "0.1.27-beta",
     "channel":  "beta",
     "date":  "2026-10-30",
     "notes":  [
-                  "Конструктор: зміна підрозділу більше не смикає панель (баг виправлено)",
-                  "Конструктор: таблицю деталей можна сортувати кліком по заголовку - назва, ціни, маржа"
+                  "Конструктор: «Текст для» тепер акуратні кнопки (Клієнта/OLX/Внутрішній) замість старого випадного списку"
               ],
     "mandatory":  false,
     "package":  {
-                    "url":  "https://github.com/PainFrenemy2/BlackMode/releases/download/v0.1.26-beta/BlackMode-0.1.26-beta-win64.zip",
-                    "sha256":  "ef3c11476de1ff1ecec5ae4b4d4479ca7eebfb2c9018b3094dda1695b05cea56",
-                    "size":  6806176
+                    "url":  "https://github.com/PainFrenemy2/BlackMode/releases/download/v0.1.27-beta/BlackMode-0.1.27-beta-win64.zip",
+                    "sha256":  "3c8e723856dce8fb2d0397dc3e1e8332caa406917df458fe836632ae5d16c0cd",
+                    "size":  6806304
                 }
 }
