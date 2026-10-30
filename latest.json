@@ -1,17 +1,14 @@
 {
-    "version":  "0.1.31-beta",
+    "version":  "0.1.32-beta",
     "channel":  "beta",
     "date":  "2026-10-30",
     "notes":  [
-                  "Захист: джерело оновлень зашите в програму - його не підмінити через config.json",
-                  "Виправлено: кнопка «Оновити дані» не зависає",
-                  "у пікері Enter додає саме знайдену деталь",
-                  "дрібні оптимізації"
+                  "Категорії товарів тепер визначаються по папці в Диловоді (головна категорія), а не по назві товару - усе, що лежить під «Процесори», «Накопичувачі» тощо, потрапляє у відповідну категорію"
               ],
     "mandatory":  false,
     "package":  {
-                    "url":  "https://github.com/PainFrenemy2/BlackMode/releases/download/v0.1.31-beta/BlackMode-0.1.31-beta-win64.zip",
-                    "sha256":  "48f76497cab9c930b8dec2e5501610b5ed3b7973d5643db04e3db13ade30e1d4",
-                    "size":  6776900
+                    "url":  "https://github.com/PainFrenemy2/BlackMode/releases/download/v0.1.32-beta/BlackMode-0.1.32-beta-win64.zip",
+                    "sha256":  "ce51042f8b75c998f91e72c0a2f66ccaac0e93cca2ef991a6e4feeeea00ca1b1",
+                    "size":  6778433
                 }
 }
