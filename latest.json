@@ -1,15 +1,17 @@
 {
-    "version":  "0.1.30-beta",
+    "version":  "0.1.31-beta",
     "channel":  "beta",
     "date":  "2026-10-30",
     "notes":  [
-                  "База збірок більше не блимає «немає збірок» при вході",
-                  "Вікно-перегляд збірки: суми тепер і в доларах під гривнею"
+                  "Захист: джерело оновлень зашите в програму - його не підмінити через config.json",
+                  "Виправлено: кнопка «Оновити дані» не зависає",
+                  "у пікері Enter додає саме знайдену деталь",
+                  "дрібні оптимізації"
               ],
     "mandatory":  false,
     "package":  {
-                    "url":  "https://github.com/PainFrenemy2/BlackMode/releases/download/v0.1.30-beta/BlackMode-0.1.30-beta-win64.zip",
-                    "sha256":  "ba21ff9c524d3531c9b169f2d3eca6c03edb2717dc68de468cf152afaa089311",
-                    "size":  6807890
+                    "url":  "https://github.com/PainFrenemy2/BlackMode/releases/download/v0.1.31-beta/BlackMode-0.1.31-beta-win64.zip",
+                    "sha256":  "48f76497cab9c930b8dec2e5501610b5ed3b7973d5643db04e3db13ade30e1d4",
+                    "size":  6776900
                 }
 }
