@@ -1,14 +1,14 @@
 {
-    "version":  "0.1.27-beta",
+    "version":  "0.1.28-beta",
     "channel":  "beta",
     "date":  "2026-10-30",
     "notes":  [
-                  "Конструктор: «Текст для» тепер акуратні кнопки (Клієнта/OLX/Внутрішній) замість старого випадного списку"
+                  "Конструктор: у виборі деталі з\u0027явилися папки Диловода (напр. Intel / AMD під процесорами) - можна фільтрувати по підкатегорії"
               ],
     "mandatory":  false,
     "package":  {
-                    "url":  "https://github.com/PainFrenemy2/BlackMode/releases/download/v0.1.27-beta/BlackMode-0.1.27-beta-win64.zip",
-                    "sha256":  "3c8e723856dce8fb2d0397dc3e1e8332caa406917df458fe836632ae5d16c0cd",
-                    "size":  6806304
+                    "url":  "https://github.com/PainFrenemy2/BlackMode/releases/download/v0.1.28-beta/BlackMode-0.1.28-beta-win64.zip",
+                    "sha256":  "f78effea4dd6c4f7882badbe15005442fdecddc80bb5a874e29303a6127033a7",
+                    "size":  6807595
                 }
 }
