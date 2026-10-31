@@ -1,14 +1,15 @@
 {
-    "version":  "0.1.42-beta",
+    "version":  "0.1.43-beta",
     "channel":  "beta",
     "date":  "2026-10-31",
     "notes":  [
-                  "Користувачі: кілька ПК в однієї людини, кнопка + ПК і кілька кодів одразу"
+                  "Користувачі: можна видалити ПК зі списку",
+                  "Менше повторних сповіщень Windows, якщо вона блокує апдейтер"
               ],
     "mandatory":  false,
     "package":  {
-                    "url":  "https://github.com/PainFrenemy2/BlackMode/releases/download/v0.1.42-beta/BlackMode-0.1.42-beta-win64.zip",
-                    "sha256":  "f1cff37ec8e7651e73f2597b92a7feb0d17962bcdc13ea9dbdb654493dc37932",
-                    "size":  6826844
+                    "url":  "https://github.com/PainFrenemy2/BlackMode/releases/download/v0.1.43-beta/BlackMode-0.1.43-beta-win64.zip",
+                    "sha256":  "71d9ef3f45d6e85b38537ead606308bfe94e3a0cc997668188b44ccc466eaeba",
+                    "size":  6828263
                 }
 }
