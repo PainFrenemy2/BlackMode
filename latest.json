@@ -1,15 +1,15 @@
 {
-    "version":  "0.1.43-beta",
+    "version":  "0.1.44-beta",
     "channel":  "beta",
     "date":  "2026-10-31",
     "notes":  [
-                  "Користувачі: можна видалити ПК зі списку",
-                  "Менше повторних сповіщень Windows, якщо вона блокує апдейтер"
+                  "Інсталятор перевіряє блокування Windows і допомагає його вимкнути",
+                  "Зрозуміле вікно з кнопкою налаштувань, якщо Windows заблокувала запуск"
               ],
     "mandatory":  false,
     "package":  {
-                    "url":  "https://github.com/PainFrenemy2/BlackMode/releases/download/v0.1.43-beta/BlackMode-0.1.43-beta-win64.zip",
-                    "sha256":  "71d9ef3f45d6e85b38537ead606308bfe94e3a0cc997668188b44ccc466eaeba",
-                    "size":  6828263
+                    "url":  "https://github.com/PainFrenemy2/BlackMode/releases/download/v0.1.44-beta/BlackMode-0.1.44-beta-win64.zip",
+                    "sha256":  "62728e1f7a948043daed31784fba73391f9f77071ada0e4c40b488daabe98d69",
+                    "size":  6828346
                 }
 }
