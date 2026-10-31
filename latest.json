@@ -1,18 +1,16 @@
 {
-    "version":  "0.1.38-beta",
+    "version":  "0.1.39-beta",
     "channel":  "beta",
     "date":  "2026-10-31",
     "notes":  [
-                  "Склад через сервер: F5 оновлює склад у всіх одразу",
-                  "Сигнали від сервера: збірки, склад, налаштування і права оновлюються самі",
-                  "Керування: користувачі і права за посадами, видає лише Адміністратор",
-                  "Кошик збірок на 14 днів",
-                  "Панель після вибору деталі типово не ховається"
+                  "Доступ лише через меню Керування: список на GitHub прибрано",
+                  "Захист першого входу і блокування перебору ключів",
+                  "Виправлено перемикачі в таблиці прав"
               ],
     "mandatory":  true,
     "package":  {
-                    "url":  "https://github.com/PainFrenemy2/BlackMode/releases/download/v0.1.38-beta/BlackMode-0.1.38-beta-win64.zip",
-                    "sha256":  "9eba9a969ea43fe37d4ed52b32dbc7e93d9771dd87a7523d2a994020b19d776e",
-                    "size":  6857654
+                    "url":  "https://github.com/PainFrenemy2/BlackMode/releases/download/v0.1.39-beta/BlackMode-0.1.39-beta-win64.zip",
+                    "sha256":  "a9ee3c87f739338b929d85bb6ab142097c7d16c287ef06ac98d2632c248b19e9",
+                    "size":  6797419
                 }
 }
