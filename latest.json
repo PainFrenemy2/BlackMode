@@ -1,16 +1,14 @@
 {
-    "version":  "0.1.39-beta",
+    "version":  "0.1.40-beta",
     "channel":  "beta",
     "date":  "2026-10-31",
     "notes":  [
-                  "Доступ лише через меню Керування: список на GitHub прибрано",
-                  "Захист першого входу і блокування перебору ключів",
-                  "Виправлено перемикачі в таблиці прав"
+                  "Склад і курс лише із сервера: захист ключа Диловода"
               ],
     "mandatory":  true,
     "package":  {
-                    "url":  "https://github.com/PainFrenemy2/BlackMode/releases/download/v0.1.39-beta/BlackMode-0.1.39-beta-win64.zip",
-                    "sha256":  "a9ee3c87f739338b929d85bb6ab142097c7d16c287ef06ac98d2632c248b19e9",
-                    "size":  6797419
+                    "url":  "https://github.com/PainFrenemy2/BlackMode/releases/download/v0.1.40-beta/BlackMode-0.1.40-beta-win64.zip",
+                    "sha256":  "02fdc9b909281033c3de436deaf937b3a3c34da6d55650a5e43846576479e913",
+                    "size":  6796110
                 }
 }
