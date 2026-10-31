@@ -1,14 +1,16 @@
 {
-    "version":  "0.1.40-beta",
+    "version":  "0.1.41-beta",
     "channel":  "beta",
     "date":  "2026-10-31",
     "notes":  [
-                  "Склад і курс лише із сервера: захист ключа Диловода"
+                  "Стан системи: моніторинг нашого сервера",
+                  "Ім\u0027я в привітанні показується повністю",
+                  "Зрозуміле повідомлення, якщо запуск заблокувала Windows"
               ],
-    "mandatory":  true,
+    "mandatory":  false,
     "package":  {
-                    "url":  "https://github.com/PainFrenemy2/BlackMode/releases/download/v0.1.40-beta/BlackMode-0.1.40-beta-win64.zip",
-                    "sha256":  "02fdc9b909281033c3de436deaf937b3a3c34da6d55650a5e43846576479e913",
-                    "size":  6796110
+                    "url":  "https://github.com/PainFrenemy2/BlackMode/releases/download/v0.1.41-beta/BlackMode-0.1.41-beta-win64.zip",
+                    "sha256":  "680b0fca5958c1f5ef4a85b363a7103846fa7d23de742f78f92bfe74376006d0",
+                    "size":  6824812
                 }
 }
