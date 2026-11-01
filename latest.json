@@ -1,16 +1,16 @@
 {
-    "version":  "0.1.45-beta",
+    "version":  "0.1.46-beta",
     "channel":  "beta",
     "date":  "2026-11-01",
     "notes":  [
-                  "Програма більше не втрачає доступ після відмови сервера чи перевстановлення",
-                  "Після встановлення файли більше не завантажуються заново",
-                  "Акуратні кути в таблицях"
+                  "Швидша робота на великому складі",
+                  "Вибір деталі стрілками без затримок",
+                  "Оновлена картка стану системи"
               ],
     "mandatory":  false,
     "package":  {
-                    "url":  "https://github.com/PainFrenemy2/BlackMode/releases/download/v0.1.45-beta/BlackMode-0.1.45-beta-win64.zip",
-                    "sha256":  "c2f45eb4e841fbd84e0ba28dd6bb94c798496a80e5c5c30dd4373560ad69361a",
-                    "size":  6831589
+                    "url":  "https://github.com/PainFrenemy2/BlackMode/releases/download/v0.1.46-beta/BlackMode-0.1.46-beta-win64.zip",
+                    "sha256":  "1ee714d27ff55c22ccdc3f0b064cbe26003dc11f352acdc553cf1dc362a84c09",
+                    "size":  6835099
                 }
 }
