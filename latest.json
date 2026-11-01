@@ -1,15 +1,16 @@
 {
-    "version":  "0.1.44-beta",
+    "version":  "0.1.45-beta",
     "channel":  "beta",
-    "date":  "2026-10-31",
+    "date":  "2026-11-01",
     "notes":  [
-                  "Інсталятор перевіряє блокування Windows і допомагає його вимкнути",
-                  "Зрозуміле вікно з кнопкою налаштувань, якщо Windows заблокувала запуск"
+                  "Програма більше не втрачає доступ після відмови сервера чи перевстановлення",
+                  "Після встановлення файли більше не завантажуються заново",
+                  "Акуратні кути в таблицях"
               ],
     "mandatory":  false,
     "package":  {
-                    "url":  "https://github.com/PainFrenemy2/BlackMode/releases/download/v0.1.44-beta/BlackMode-0.1.44-beta-win64.zip",
-                    "sha256":  "62728e1f7a948043daed31784fba73391f9f77071ada0e4c40b488daabe98d69",
-                    "size":  6828346
+                    "url":  "https://github.com/PainFrenemy2/BlackMode/releases/download/v0.1.45-beta/BlackMode-0.1.45-beta-win64.zip",
+                    "sha256":  "c2f45eb4e841fbd84e0ba28dd6bb94c798496a80e5c5c30dd4373560ad69361a",
+                    "size":  6831589
                 }
 }
