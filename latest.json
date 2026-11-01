@@ -1,14 +1,14 @@
 {
-    "version":  "0.1.49-beta",
+    "version":  "0.1.50-beta",
     "channel":  "beta",
     "date":  "2026-11-01",
     "notes":  [
-                  "Менше сповіщень про оновлення: лише напис біля логотипа, клік по ньому оновлює"
+                  "Тестове оновлення, змін у програмі немає"
               ],
     "mandatory":  false,
     "package":  {
-                    "url":  "https://github.com/PainFrenemy2/BlackMode/releases/download/v0.1.49-beta/BlackMode-0.1.49-beta-win64.zip",
-                    "sha256":  "85440faae9e59a584c5dad3ce337225b2c5bc20cd0b34b28b984bd0fcb6e7941",
-                    "size":  6831456
+                    "url":  "https://github.com/PainFrenemy2/BlackMode/releases/download/v0.1.50-beta/BlackMode-0.1.50-beta-win64.zip",
+                    "sha256":  "0713f33c155de1911e840d466d16fe1ff23fbdcdb7b273d05a64d563cefe8c10",
+                    "size":  6831465
                 }
 }
