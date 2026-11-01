@@ -1,14 +1,17 @@
 {
-    "version":  "0.1.53-beta",
+    "version":  "0.1.54-beta",
     "channel":  "beta",
     "date":  "2026-11-01",
     "notes":  [
-                  "Програма прибирає за собою і займає менше місця"
+                  "У конструкторі знову можна вводити ціну і кількість",
+                  "Новий календар у базі збірок",
+                  "Нотатки збірки відкриваються окремою кнопкою",
+                  "Після редагування збірки конструктор очищається"
               ],
     "mandatory":  false,
     "package":  {
-                    "url":  "https://github.com/PainFrenemy2/BlackMode/releases/download/v0.1.53-beta/BlackMode-0.1.53-beta-win64.zip",
-                    "sha256":  "51c3368accdd4be2bac239a0c444dc2e049efc8e1d563531a14af01385bc5325",
-                    "size":  6840093
+                    "url":  "https://github.com/PainFrenemy2/BlackMode/releases/download/v0.1.54-beta/BlackMode-0.1.54-beta-win64.zip",
+                    "sha256":  "af1fb6efc248d70b01392639ac8e411da24927dbc4ddc039760dcd2f8924c41f",
+                    "size":  6844124
                 }
 }
