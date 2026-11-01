@@ -1,14 +1,14 @@
 {
-    "version":  "0.1.55-beta",
+    "version":  "0.1.56-beta",
     "channel":  "beta",
     "date":  "2026-11-01",
     "notes":  [
-                  "База збірок відкривається без миготіння"
+                  "Очистити в конструкторі скидає все: деталі, назву, нотатки, знижку"
               ],
     "mandatory":  false,
     "package":  {
-                    "url":  "https://github.com/PainFrenemy2/BlackMode/releases/download/v0.1.55-beta/BlackMode-0.1.55-beta-win64.zip",
-                    "sha256":  "51bfe8fa5965d6a0c18ef44b2a7c087c4efac27b8e08f3a4e982abbef391b0a5",
-                    "size":  6844771
+                    "url":  "https://github.com/PainFrenemy2/BlackMode/releases/download/v0.1.56-beta/BlackMode-0.1.56-beta-win64.zip",
+                    "sha256":  "9a87e5ca5b6d37891dde61adad91ad4c9cc74325f2c7a3f705036a1eafa052e9",
+                    "size":  6845129
                 }
 }
