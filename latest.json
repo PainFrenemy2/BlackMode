@@ -1,16 +1,14 @@
 {
-    "version":  "0.1.46-beta",
+    "version":  "0.1.47-beta",
     "channel":  "beta",
     "date":  "2026-11-01",
     "notes":  [
-                  "Швидша робота на великому складі",
-                  "Вибір деталі стрілками без затримок",
-                  "Оновлена картка стану системи"
+                  "Простіша картка стану системи"
               ],
     "mandatory":  false,
     "package":  {
-                    "url":  "https://github.com/PainFrenemy2/BlackMode/releases/download/v0.1.46-beta/BlackMode-0.1.46-beta-win64.zip",
-                    "sha256":  "1ee714d27ff55c22ccdc3f0b064cbe26003dc11f352acdc553cf1dc362a84c09",
-                    "size":  6835099
+                    "url":  "https://github.com/PainFrenemy2/BlackMode/releases/download/v0.1.47-beta/BlackMode-0.1.47-beta-win64.zip",
+                    "sha256":  "947d351452595d32ff433258b241ea0bbd4723c4f752ad55dcbc2f606f0f4b45",
+                    "size":  6834429
                 }
 }
