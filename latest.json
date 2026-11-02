@@ -1,14 +1,18 @@
 {
-    "version":  "0.1.56-beta",
+    "version":  "0.1.57-beta",
     "channel":  "beta",
-    "date":  "2026-11-01",
+    "date":  "2026-11-02",
     "notes":  [
-                  "Очистити в конструкторі скидає все: деталі, назву, нотатки, знижку"
+                  "Ціни ринку: Hotline і Розетка, ринкова ціна за більшістю магазинів, час оновлення задається списком",
+                  "Вхід з паролем на вибраних ПК, посада Розробник, підпис ПК",
+                  "Склад оновлює сервер за розкладом із Керування, F5 бере готові дані",
+                  "Конструктор не дає поставити більше за залишок і перевіряє склад при збереженні",
+                  "Підказки на заголовках колонок у таблицях"
               ],
     "mandatory":  false,
     "package":  {
-                    "url":  "https://github.com/PainFrenemy2/BlackMode/releases/download/v0.1.56-beta/BlackMode-0.1.56-beta-win64.zip",
-                    "sha256":  "9a87e5ca5b6d37891dde61adad91ad4c9cc74325f2c7a3f705036a1eafa052e9",
-                    "size":  6845129
+                    "url":  "https://github.com/PainFrenemy2/BlackMode/releases/download/v0.1.57-beta/BlackMode-0.1.57-beta-win64.zip",
+                    "sha256":  "76ecce64f50703fbcb977360eab43436c8a652c92eb0068b6ff320a68ba14039",
+                    "size":  6910902
                 }
 }
