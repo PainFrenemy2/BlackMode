@@ -1,14 +1,14 @@
 {
-    "version":  "0.1.60-beta",
+    "version":  "0.1.61-beta",
     "channel":  "beta",
-    "date":  "2026-11-11",
+    "date":  "2026-11-12",
     "notes":  [
-                  "- База збірок: 10 збірок рівно 5 x 2 на всю висоту вікна, без порожнього місця"
+                  "- Тексти: шаблон з порожнім першим рядком більше не зсуває підсвітку змінних\n- Бот Telegram відповідає швидше"
               ],
     "mandatory":  false,
     "package":  {
-                    "url":  "https://github.com/PainFrenemy2/BlackMode/releases/download/v0.1.60-beta/BlackMode-0.1.60-beta-win64.zip",
-                    "sha256":  "acabc86f7a90be71aa792bdce7dfdc5a01c384e234c2c14d93c799d012d863da",
-                    "size":  7151089
+                    "url":  "https://github.com/PainFrenemy2/BlackMode/releases/download/v0.1.61-beta/BlackMode-0.1.61-beta-win64.zip",
+                    "sha256":  "3b8c59bd310be3c8e2070e35a3db5999d0deba4445a930fa6be66cc39f8d0272",
+                    "size":  7151139
                 }
 }
