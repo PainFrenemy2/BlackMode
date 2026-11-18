@@ -1,16 +1,16 @@
 {
-    "version":  "0.1.64-beta",
+    "version":  "0.1.65-beta",
     "channel":  "beta",
-    "date":  "2026-11-14",
+    "date":  "2026-11-18",
     "notes":  [
-                  "Вікно оновлення: список змін більше не налазить на кнопки",
-                  "Історія ціни, прогрес цін ринку, нові склади вимкнені",
-                  "Програма легша: прибрано зайвий код"
+                  "Значки посад і підрозділів у стилі програми, версія програми кожного ПК у Керуванні",
+                  "Склад і Ціни ринку без зайвої прокрутки, картки збірок без порожнечі",
+                  "«Ціна на деталі» неактивна, поки збірка порожня, і дрібні виправлення"
               ],
     "mandatory":  false,
     "package":  {
-                    "url":  "https://github.com/PainFrenemy2/BlackMode/releases/download/v0.1.64-beta/BlackMode-0.1.64-beta-win64.zip",
-                    "sha256":  "50416a0ea5968378f93789b0aeb653fde484ecb683c3513ac5a65479a943a56d",
-                    "size":  7020067
+                    "url":  "https://github.com/PainFrenemy2/BlackMode/releases/download/v0.1.65-beta/BlackMode-0.1.65-beta-win64.zip",
+                    "sha256":  "12cb6206b27751ccf7c6915eea2328f905789c077e95eb811520b8e50f310b89",
+                    "size":  7024796
                 }
 }
